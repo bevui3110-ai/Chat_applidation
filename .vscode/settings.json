@@ -1,0 +1,16 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/webcam-capture-0.3.12.jar",
+        "lib/bridj-0.7.0.jar",
+        "lib/slf4j-api-1.7.36.jar",
+        "lib/slf4j-simple-1.7.36.jar",
+        "mysql-connector-j-26.7.0/mysql-connector-j-26.7.0.jar",
+        "lib/*.jar",
+        "lib/**/*.jar"
+    ],
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.configuration.updateBuildConfiguration": "automatic"
+}
